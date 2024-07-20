@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="deimos n sanford.png">
+	<!-- Created using the Spritesheet and XML generator -->
+	<!-- https://uncertainprod.github.io/FNF-Spritesheet-XML-generator-Web -->
+	<SubTexture name="Sanford appears0000" x="585" y="2380" width="586" height="1112" frameX="-188" frameY="-170" frameWidth="791" frameHeight="1280"/>
+	<SubTexture name="Sanford appears0001" x="3542" y="0" width="518" height="1261" frameX="-251" frameY="-21" frameWidth="791" frameHeight="1280"/>
+	<SubTexture name="Sanford appears0002" x="3542" y="0" width="518" height="1261" frameX="-251" frameY="-21" frameWidth="791" frameHeight="1280"/>
+	<SubTexture name="Sanford appears0003" x="0" y="2380" width="585" height="1143" frameX="-182" frameY="-139" frameWidth="791" frameHeight="1280"/>
+	<SubTexture name="Sanford appears0004" x="0" y="2380" width="585" height="1143" frameX="-182" frameY="-139" frameWidth="791" frameHeight="1280"/>
+	<SubTexture name="deimos appears0000" x="0" y="0" width="777" height="1242" frameX="2" frameY="-40" frameWidth="773" frameHeight="1280"/>
+	<SubTexture name="deimos appears0001" x="1544" y="0" width="764" height="1140" frameX="-11" frameY="-142" frameWidth="773" frameHeight="1280"/>
+	<SubTexture name="deimos appears0002" x="1544" y="0" width="764" height="1140" frameX="-11" frameY="-142" frameWidth="773" frameHeight="1280"/>
+	<SubTexture name="deimos appears0003" x="777" y="0" width="767" height="1138" frameX="-8" frameY="-144" frameWidth="773" frameHeight="1280"/>
+	<SubTexture name="deimos appears0004" x="777" y="0" width="767" height="1138" frameX="-8" frameY="-144" frameWidth="773" frameHeight="1280"/>
+	<SubTexture name="deimos idle0000" x="0" y="1242" width="623" height="1138" frameX="2" frameY="-91" frameWidth="619" frameHeight="1227"/>
+	<SubTexture name="deimos idle0001" x="0" y="1242" width="623" height="1138" frameX="2" frameY="-91" frameWidth="619" frameHeight="1227"/>
+	<SubTexture name="deimos idle0002" x="3542" y="1261" width="515" height="1138" frameX="0" frameY="-91" frameWidth="619" frameHeight="1227"/>
+	<SubTexture name="deimos idle0003" x="3542" y="1261" width="515" height="1138" frameX="0" frameY="-91" frameWidth="619" frameHeight="1227"/>
+	<SubTexture name="deimos idle0004" x="2925" y="1144" width="617" height="1140" frameX="-4" frameY="-89" frameWidth="619" frameHeight="1227"/>
+	<SubTexture name="deimos idle0005" x="2925" y="0" width="617" height="1144" frameX="-4" frameY="-85" frameWidth="619" frameHeight="1227"/>
+	<SubTexture name="deimos idle0006" x="2308" y="0" width="617" height="1174" frameX="-4" frameY="-55" frameWidth="619" frameHeight="1227"/>
+	<SubTexture name="deimos idle0007" x="2308" y="0" width="617" height="1174" frameX="-4" frameY="-55" frameWidth="619" frameHeight="1227"/>
+	<SubTexture name="deimshoot0000" x="4640" y="1142" width="529" height="1141" frameX="2" frameY="2" frameWidth="525" frameHeight="1137"/>
+	<SubTexture name="deimshoot0001" x="0" y="3523" width="529" height="1141" frameX="2" frameY="2" frameWidth="525" frameHeight="1137"/>
+	<SubTexture name="deimshoot0002" x="4640" y="2283" width="529" height="1141" frameX="2" frameY="2" frameWidth="525" frameHeight="1137"/>
+	<SubTexture name="idle san0000" x="1791" y="1242" width="587" height="1120" frameX="-42" frameY="-109" frameWidth="627" frameHeight="1227"/>
+	<SubTexture name="idle san0001" x="4060" y="0" width="580" height="1123" frameX="-48" frameY="-106" frameWidth="627" frameHeight="1227"/>
+	<SubTexture name="idle san0002" x="1207" y="1242" width="584" height="1128" frameX="-36" frameY="-101" frameWidth="627" frameHeight="1227"/>
+	<SubTexture name="idle san0003" x="623" y="1242" width="584" height="1128" frameX="-34" frameY="-101" frameWidth="627" frameHeight="1227"/>
+	<SubTexture name="idle san0004" x="623" y="1242" width="584" height="1128" frameX="-34" frameY="-101" frameWidth="627" frameHeight="1227"/>
+	<SubTexture name="idle san0005" x="623" y="1242" width="584" height="1128" frameX="-34" frameY="-101" frameWidth="627" frameHeight="1227"/>
+	<SubTexture name="shoot san0000" x="4060" y="2243" width="551" height="1136" frameX="-10" frameY="-4" frameWidth="559" frameHeight="1138"/>
+	<SubTexture name="shoot san0001" x="4640" y="0" width="545" height="1142" frameX="-16" frameY="2" frameWidth="559" frameHeight="1138"/>
+	<SubTexture name="shoot san0002" x="4060" y="1123" width="562" height="1120" frameX="2" frameY="-20" frameWidth="559" frameHeight="1138"/>
+	<SubTexture name="shoot san0003" x="4060" y="1123" width="562" height="1120" frameX="2" frameY="-20" frameWidth="559" frameHeight="1138"/>
+</TextureAtlas>
